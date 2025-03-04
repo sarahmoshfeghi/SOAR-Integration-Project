@@ -1,4 +1,4 @@
-site : https://github.com/MISP/misp-docker# Install misp playbook
+site : https://github.com/MISP/misp-docker
 
 site https://github.com/MISP/misp-playbooks/blob/main/documentation/MISP%20playbook%20technical%20documentation.md
 # Install misp playbook
